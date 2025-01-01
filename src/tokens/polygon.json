@@ -302,5 +302,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "name": "Gembe",
+    "address": "0x72494fb66c03116411668077f47FC51EbE1a5680",
+    "symbol": "GMB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/gembetoken/gembe/refs/heads/main/fdce7480-8ef5-4d68-b82a-db3528ec8264.png"
   }
 ]
